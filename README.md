@@ -3,7 +3,7 @@ Analysis of UK's Online Retails Market. Segmented the customers as new, loyal an
 
 ### Open in Colab 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/AbdullahMakhdoom/Customer_Segmentation/blob/main/customer_segmentation.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AbdullahMakhdoom/Customer_Segmentation/blob/main/customer_segmentation.ipynb#scrollTo=QSNqWInhqZ7e)
 
 ### Dataset : https://www.kaggle.com/mrmining/online-retail
 Download the '.zip' file and upload to runtime drive if running in Google Colab.
