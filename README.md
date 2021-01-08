@@ -3,4 +3,8 @@ Analysis of UK's Online Retails Market. Segmented the customers as new, loyal an
 
 ### Dataset
 https://www.kaggle.com/mrmining/online-retail
+
+### 3D scatter plot of RFM Clusters for UK customers
+![](https://github.com/AbdullahMakhdoom/Customer_Segmentation/blob/main/clusters.png)
+
   
